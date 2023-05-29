@@ -5,7 +5,6 @@
 * Juan Manuel Mesa Henao, CC 1044509403,Ingeniería eléctrica
 ## Datos
 * Los datos fueron extraídos de Kaggle: [energy_dataset](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather) 
-* Para realizar la conexión entre Colab y Kaggle, se debe decargar el archivo kaggle.json
-* Posteriormente leer el archivo en Colab
+* Para realizar la conexión entre Colab y Kaggle, se debe decargar el archivo kaggle.json y posteriormente leer el archivo en Colab
 ## Videos
 * [Vídeo entrega final](https://youtu.be/yY3RbuNAzko) 
